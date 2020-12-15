@@ -1,7 +1,0 @@
-site_name: Christopher W. Curtis
-nav:
-    - Home: index.md
-    - Biography and CV: about.md
-    - Research: research.md
-    - Teaching: teaching.md
-theme: readthedocs

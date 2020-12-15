@@ -5,3 +5,4 @@ nav:
     - Research: research.md
     - Teaching: teaching.md
 theme: readthedocs
+plugins: []

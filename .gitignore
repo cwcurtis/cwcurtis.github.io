@@ -125,4 +125,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 "site/" 
-"web_site_docs_source" 
+"web_site_docs_source/" 

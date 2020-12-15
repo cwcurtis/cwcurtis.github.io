@@ -3,4 +3,8 @@ I am an applied mathematician working in a number of problems connected to nonli
 <a href="https://github.com/cwcurtis/cwcurtis.github.io/blob/main/cv_2019_long.pdf" target="_blank"> Curriculum Vitae </a>
 <br>
 
-![](katie_and_me.jpg)
+<img src=/katie_and_me.jpg
+  alt="Profile Pic"
+  style="float: left; margin-right: 10px;"
+  width="300"
+  height="600"/>

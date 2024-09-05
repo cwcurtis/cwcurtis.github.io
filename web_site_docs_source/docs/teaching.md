@@ -1,4 +1,4 @@
-In Spring 2021, I am teaching:
+In Fall 2024, I am teaching:
 
-* MATH 151, Calculus 2
-* MATH 337, <a href="https://github.com/cwcurtis/math337" target="_blank">Elementary Differential Equations</a>
+* MATH 537, Ordindary Differential Equations (with an introduciton to Control Theory)
+* MATH 596, <a href="https://github.com/cwcurtis/MATH-596-Mathematical-Data-Science" target="_blank">Mathematical Data Science</a>

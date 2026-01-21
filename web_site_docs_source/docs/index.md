@@ -1,7 +1,7 @@
 # Christopher W. Curtis
 
-* Associate Professor  
-  Department of Mathematics and Statistics  
+* Professor  
+  Department of Mathematics, Statistics, and Mathematics Education  
   San Diego State University  
   Office: GMCS 591  
   Phone: 619-594-5962  
